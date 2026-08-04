@@ -1,0 +1,12 @@
+Feature,Importance
+Lag_7,0.39288127
+DayofWeek,0.29008338
+Rolling_Mean_7,0.18270168
+Lag_30,0.03240961
+Rolling_STD_7,0.032242887
+Lag_1,0.030906564
+Rolling_Mean_30,0.014667957
+Month,0.014078851
+Year,0.010027769
+Quarter,0.0
+IsWeekend,0.0

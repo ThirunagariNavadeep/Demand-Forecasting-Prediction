@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Linear Regression,2530.74,3638.54,0.7104
+Default XGBoost,2538.94,3850.79,0.6756
+Tuned XGBoost,2257.72,3710.2,0.6989
