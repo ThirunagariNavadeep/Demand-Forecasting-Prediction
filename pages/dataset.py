@@ -4,7 +4,7 @@ import pandas as pd
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("sales_train_evaluation.csv")
+    return pd.read_csv("D:\Projects\Demand Forecasting Prediction")
 
 
 def show():
